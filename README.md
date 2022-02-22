@@ -18,3 +18,10 @@
 
 - Install SQLalchemy:
     1. In cmd type: pip install Flask-SQLAlchemy
+
+- How to run backend:
+    1. In cmd type: python ./api.py
+
+- How to run frontend:
+    1. Open terminal in my-app folder
+    2. In cmd type: yarn start
